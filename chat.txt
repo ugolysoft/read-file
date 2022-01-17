@@ -1,0 +1,1 @@
+lorem ipsum [inside square brackets]
